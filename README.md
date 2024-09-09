@@ -1,1 +1,1 @@
-# number_recognition
+# number_recognition using logistic regression
